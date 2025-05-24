@@ -8,7 +8,7 @@ struct student
 
     void Display(student p)
     {
-        cout << p.namne << "Your Profile Hare:" << endl;
+        cout << p.namne  << "Your Profile Hare:" << endl;
         cout << "student Name :" << p.namne << endl;
         cout << "student Roll Number :" << p.RollNum << endl;
         cout << "student Roll Number :" << p.RollNum << endl;
