@@ -6,6 +6,7 @@ struct student
 
     string namne;
 
+
     void Display(student p)
     {
         cout << p.namne  << "Your Profile Hare:" << endl;
