@@ -3,6 +3,7 @@ using namespace std;
 struct student
 {
     int RollNum;
+     int age;
 
     string namne;
 
