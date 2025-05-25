@@ -20,4 +20,5 @@ int main()
 {
     student p = {1,"vineet"};
     p.Display(p);
+    
 }
