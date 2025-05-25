@@ -19,7 +19,7 @@ struct student
 }p;
 int main()
 {
-    student p = {1,"vineet"};
+    student p = {3,"vineet"};
     p.Display(p);
     
 }
