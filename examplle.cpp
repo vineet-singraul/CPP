@@ -19,5 +19,4 @@ int main()
 {
     student p = {3,"vineet"};
     p.Display(p);
-    
 }
