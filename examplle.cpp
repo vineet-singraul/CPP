@@ -4,7 +4,6 @@ struct student
 {
     int RollNum;
      int age;
-
     string namne;
     void Display(student p)
     {
